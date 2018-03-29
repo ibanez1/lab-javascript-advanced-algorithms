@@ -1,0 +1,28 @@
+
+
+* {
+  margin: 25px;
+}
+
+.stack-column {
+  height: 500px;;
+}
+
+
+
+.is-empty {
+  height: 50px;
+  width: 150px;
+  background-color: rgb(51, 204, 204);
+  color: white;
+  
+}
+
+full{
+  width: 150px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+}
+
+
